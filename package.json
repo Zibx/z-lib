@@ -1,0 +1,26 @@
+{
+  "name": "z-lib",
+  "version": "0.0.7",
+  "description": "z core lib",
+  "main": "lib/z.js",
+  "scripts": {
+    "test": "vows test/*"
+  },
+  "devDependencies": {
+    "vows": "*",
+    "assert": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zibx/z-lib.git"
+  },
+  "keywords": [
+    "z-library"
+  ],
+  "author": "Zibx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zibx/z-lib/issues"
+  },
+  "homepage": "https://github.com/Zibx/z-lib"
+}
